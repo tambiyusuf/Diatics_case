@@ -1,0 +1,13 @@
+[
+    {"class": "Sheep", "count": 15, "gender": "Male"},
+    {"class": "Sheep", "count": 15, "gender": "Female"},
+    {"class": "Wolf", "count": 5, "gender": "Male"},
+    {"class": "Wolf", "count": 5, "gender": "Female"},
+    {"class": "Cow", "count": 5, "gender": "Male"},
+    {"class": "Cow", "count": 5, "gender": "Female"},
+    {"class": "Lion", "count": 4, "gender": "Male"},
+    {"class": "Lion", "count": 4, "gender": "Female"},
+    {"class": "Hen", "count": 10}, 
+    {"class": "Cockerel", "count": 10},
+    {"class": "Hunter", "count": 1}
+]
